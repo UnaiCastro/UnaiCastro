@@ -3,7 +3,9 @@
 ![Banner](https://via.placeholder.com/800x200.png?text=Unai+Castro) <!-- Sustituye este enlace con el de tu banner personalizado -->
 
 ## About Me
-I'm Unai Castro, a **Software Engineer** passionate about developing efficient, clean, and creative solutions. Here you'll find both professional projects and personal experiments that reflect my love for problem-solving and continuous learning.
+I'm Unai Castro, a **Software Engineer** passionate about developing efficient, clean, and creative solutions. I’m dedicated to writing clean, maintainable code that bridges the gap between functionality and innovation. My experience ranges from developing full-stack applications to optimizing backend systems, always with an eye toward continuous learning and improvement.
+
+Here you'll find both professional projects and personal experiments that reflect my love for problem-solving and continuous learning.
 
 ---
 
