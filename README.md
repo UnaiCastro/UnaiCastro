@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Unai Castro — Software Engineer & Tech Enthusiast
 
-![Banner](https://via.placeholder.com/800x200.png?text=Unai+Castro) <!-- Sustituye este enlace con el de tu banner personalizado -->
+![Banner](https://github.com/UnaiCastro/UnaiCastro/blob/main/Banner%20para%20Linkedin%20Community%20Manager%20Simple%20Blanco.png)
 
 ## About Me
 I'm Unai Castro, a **Software Engineer** passionate about developing efficient, clean, and creative solutions. I’m dedicated to writing clean, maintainable code that bridges the gap between functionality and innovation. My experience ranges from developing full-stack applications to optimizing backend systems, always with an eye toward continuous learning and improvement.
@@ -54,3 +54,6 @@ Here are some of my top repositories showcasing my work:
 ![Unai's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UnaiCastro&theme=radical)
 
 ---
+
+
+
