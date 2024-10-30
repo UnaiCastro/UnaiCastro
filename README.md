@@ -1,4 +1,4 @@
-## Hi there! I'm Unai Castro — Software Engineer & Tech Enthusiast
+## 👋 Hi there! I'm Unai Castro — Software Engineer & Tech Enthusiast
 
 ![Banner](https://via.placeholder.com/800x200.png?text=Unai+Castro) <!-- Sustituye este enlace con el de tu banner personalizado -->
 
@@ -8,8 +8,7 @@ I'm Unai Castro, a **Software Engineer** passionate about developing efficient, 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/unai-castro-3458132a6)
 
 ---
 
